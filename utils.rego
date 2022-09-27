@@ -1,4 +1,4 @@
-# Common Method definitions v1.1
+# Common Method definitions v1.2
 package utils
 hasPermission(grants, roles) {
 	grants[_] == roles[_]
